@@ -7,7 +7,7 @@ The analysis uses:
 * beta1 values from logistic regression
 * p-values of statistical significance
 
-Source dataset:https://github.com/aaronab/comorbidity_networks
+Source dataset: https://github.com/aaronab/comorbidity_networks
 
 ## Files
 - `notebook.ipynb` – main analysis
