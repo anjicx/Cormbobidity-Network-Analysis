@@ -31,6 +31,6 @@ Source dataset: https://github.com/aaronab/comorbidity_networks
 -  project summary
 
 ## Limitation
-Because this project uses only the publicly avaliable matrix data, it is limited to a descriptive analysis of the network structure.
+Because this project uses only the publicly available matrix data, it is limited to a descriptive analysis of the network structure.
 
   
