@@ -8,7 +8,7 @@ The goal of this project is to understand how diseases are connected in a comorb
 
 ## Methods
 
-To study this, only statistically important and strong disease associations are kept. After that, a directed weighted network is built and used to analyze which diseases are more central and whether disease groups appear.
+To study this, only statistically important and strong disease associations are kept. After that, a directed weighted network is built and used to analyze which diseases are more central and whether disease groups appear. To detect disease groups, the network was then converted into an undirected graph, and the Louvain algorithm was used to identify communities.
 
 ## Interpretation
 
