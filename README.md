@@ -23,12 +23,12 @@ Source dataset: https://github.com/aaronab/comorbidity_networks
 
 ## Methodology
 
-<img width="1530" height="2348" alt="simplified_comorbidity_methodology_final" src="https://github.com/user-attachments/assets/da08f936-b840-4152-b465-b6069e64392f" />
+<img width="1024" height="1365" alt="methodology" src="https://github.com/user-attachments/assets/0e7805ca-241e-4693-ae82-2ccc460d7226" />
+
 
 ## Files
 - `SNA_Analysis.ipynb`
 - `README.md`
--  project summary
 
 ## Limitation
 Because this project uses only the publicly available matrix data, it is limited to a descriptive analysis of the network structure.
