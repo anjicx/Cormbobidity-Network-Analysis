@@ -23,7 +23,7 @@ Source dataset: https://github.com/aaronab/comorbidity_networks
 
 ## Methodology
 
-<img width="1024" height="1365" alt="methodology" src="https://github.com/user-attachments/assets/0e7805ca-241e-4693-ae82-2ccc460d7226" />
+<img width="1024" height="1536" alt="m" src="https://github.com/user-attachments/assets/7fd763c3-b735-4373-9542-7e4e4c66e43e" />
 
 
 ## Files
